@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Christ College Of Engineering.<br>👯 I’m looking to collaborate on web development , software Architecting and Open-Source projects.<br>🤝 I’m looking for help with Data Structures , Algorithms and Competitive Programming. <br>🌱 I’m currently learning Full Stack Development ,Artificial Intelligence and Machine Learning.<br>💬 Ask me about Programming Languages, Web Development , Git/GitHub and Artificial Intelligence.<br>⚡ Fun fact : I Love solving Coding Puzzles , exploring AI Tools , Hacking Methods and playing Chess .
+🔭 I’m currently studying at Christ College Of Engineering.<br>👯 I’m looking to collaborate on web development , software Architecting and Open-Source projects.<br>🤝 I’m looking for help with Data Structures , Algorithms and Competitive Programming. <br>🌱 I’m currently learning Full Stack Development ,Artificial Intelligence and Machine Learning.<br>💬 Ask me about Programming Languages, Web Development , Git/GitHub and Artificial Intelligence and Machine Learning.<br>⚡ Fun fact : I Love solving Coding Puzzles , exploring AI Tools , Hacking Methods and playing Chess .
 
 
 ## 🌐 Socials:
